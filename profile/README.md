@@ -1,14 +1,23 @@
 # Open Designers
 
-🌍 A global community of designers working in the open.
+🌍 **Design, build, and share together. We are open.**
 
-[Website](https://open-designers.org) | [Figma Community](https://www.figma.com/@opendesigners)| [Discord Community](https://discord.com/invite/ZWSCxZcA) | [Join Us](https://open-designers.org/join)
+**Open Designers** is an open-source design and development community shaping the future of digital products. We're an open-source design movement driven by the belief that good design should be accessible to everyone.
 
 ---
 
-## About
+[Website](https://open-designers.org) | [Figma Community](https://www.figma.com/@opendesigners) | [Discord Community](https://discord.com/invite/ZWSCxZcA) | [Join Us](https://open-designers.org/join)
 
-Open Designers is an international community of designers primarily in Africa and creative technologists who believe in working in the open. We share processes, tools, resources, and experiences to support open source, open design, and open collaboration.
+---
+
+## What we do
+
+We curate, create, and share tools and resources to empower designers—especially across Africa to accelerate their work without hitting paywalls or bottlenecks. Our community offers:
+
+- 🎨 Free design kits, Figma files, templates, and UI inspiration
+- 🛠️ Reusable code components
+- 🌐 Local meetups and community events
+- 🤝 Collaboration between designers and developers
 
 Our mission is to make design more transparent, inclusive, and collaborative by:
 
@@ -19,13 +28,16 @@ Our mission is to make design more transparent, inclusive, and collaborative by:
 
 ---
 
-## What We Do
+## Contributing
 
-- 💬 Community discussions
-- 🛠️ Shared design libraries and templates
-- 🤝 Mentorship and skill-sharing
-- 📚 Resources and learning materials
-- 🌐 Collaborative open-source design projects
+We believe in working in the open. You can contribute by:
+
+- Sharing your design resources
+- Improving our open-source repositories
+- Participating in discussions and events
+- Mentoring others in the community
+
+Check out our GitHub repositories and issues to get started!
 
 ---
 
