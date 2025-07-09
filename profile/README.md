@@ -6,7 +6,7 @@
 
 ---
 
-[Website](https://open-designers.org) | [Figma Community](https://www.figma.com/@opendesigners) | [Discord Community](https://discord.com/invite/ZWSCxZcA) | [Join Us](https://open-designers.org/join)
+[Website](https://open-designers.org) | [Figma Community](https://www.figma.com/@opendesigners) | [Discord Community](https://discord.com/invite/ZWSCxZcA) 
 
 ---
 
